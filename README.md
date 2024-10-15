@@ -62,5 +62,5 @@ I'm currently a student in the Faculty of Computer and Information Technology at
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umar-saleem-7&" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=umar-saleem-7&theme=light&hide_border=true)](https://git.io/streak-stats" alt="GiHub Streak" />
 </p>
