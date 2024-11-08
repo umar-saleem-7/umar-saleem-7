@@ -8,7 +8,7 @@ I'm currently a student in the Faculty of Computer and Information Technology at
     <img src="https://github-profile-trophy.vercel.app/?username=umar-saleem-7" alt="GitHub Trophy" />
   </a> 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarsaleem7&label=Profile%20views&color=0e75b6&style=flat" alt="umar-saleem-7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-saleem-7&label=Profile%20views&color=0e75b6&style=flat" alt="umar-saleem-7" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/umar-saleem-1a521325b" target="_blank">
