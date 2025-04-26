@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umar</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-I'm currently a student in the Faculty of Computer and Information Technology at the University of Punjab, specializing in Data Science. I am passionate about coding and constantly learning new skills to enhance my expertise in software development and data analytics.
+I'm currently a student in the Faculty of Computer and Information Technology at the University of Punjab, specializing in Data Science. I am passionate about coding and constantly learning new skills to enhance my expertise in Machine Learning and data analytics.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-saleem-7&label=Profile%20views&color=0e75b6&style=flat" alt="umar-saleem-7" /> </p>
 
@@ -33,6 +33,18 @@ I'm currently a student in the Faculty of Computer and Information Technology at
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Machine Learning" width="40" height="40"/>
+</a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
@@ -48,6 +60,10 @@ I'm currently a student in the Faculty of Computer and Information Technology at
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-cpu-coding-and-development-flat-flat-juicy-fish.png" alt="Assembly Language" width="40" height="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Most Used Languages:</h3>
