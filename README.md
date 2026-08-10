@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=220&section=header&text=Umar%20Saleem&fontSize=52&fontColor=FFB000&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%20Recent%20Grad&descAlignY=55&descColor=8B949E&descSize=18" width="100%"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFB000&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=140&lines=whoami+%E2%86%92+umar_saleem%2C+AI+Engineer;specialization+%E2%86%92+AI%2FSystems%2C+RAG%2C+AI+Integration;stack+%E2%86%92+python+fastapi+react+langchain+pytorch;status+%E2%86%92+open_to_work%3Dtrue" alt="Typing SVG" />
 
 </div>
@@ -36,7 +30,6 @@
 
 </div>
 
----
 
 ### `$ cat about.md`
 
@@ -82,13 +75,14 @@ OPEN_TO  = ["AI/ML Engineer", "Software Engineer", "Full Stack AI Developer"]
 ---
 
 ### `$ grep -r "specialty" ./`
+<div align="center">
 
 ![RAG](https://img.shields.io/badge/RAG%20SYSTEMS-0D1117?style=for-the-badge&logo=databricks&logoColor=FFB000&labelColor=0D1117)
 ![AI Automation](https://img.shields.io/badge/AI%20AUTOMATED%20PIPELINES-0D1117?style=for-the-badge&logo=n8n&logoColor=FFB000&labelColor=0D1117)
 ![AI Integration](https://img.shields.io/badge/AI%20INTEGRATION-0D1117?style=for-the-badge&logo=openai&logoColor=FFB000&labelColor=0D1117)
 ![LLM Systems](https://img.shields.io/badge/LLM%20SYSTEMS-0D1117?style=for-the-badge&logo=googlegemini&logoColor=FFB000&labelColor=0D1117)
 
----
+</div>
 
 ### `$ cat expertise.table`
 
@@ -237,28 +231,6 @@ Retrieval-Augmented Generation system for automated document QA and summarizatio
 
 ---
 
-### `$ ./run_analytics.sh`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umar-saleem-7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=8B949E" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=umar-saleem-7&hide_border=true&background=0D1117&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-saleem-7&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=8B949E" />
-
-</div>
-
----
-
-### `$ cat trophies.list`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=umar-saleem-7&theme=dracula&no-frame=true&column=7&title=Repositories,Commits,Stars,Followers,PullRequest,Issues,MultipleLangs&margin-w=8&margin-h=8)
-
-</div>
-
----
 
 ### `$ tail -f activity_graph.log`
 
@@ -283,16 +255,6 @@ Retrieval-Augmented Generation system for automated document QA and summarizatio
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umar-saleem-7&theme=github_dark&utcOffset=5" />
 
 </div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/umar-saleem-7/umar-saleem-7/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ### `$ cat focus.yaml`
 
